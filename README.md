@@ -4,7 +4,6 @@ Welcome to my repository of certifications and achievements! This repository con
 
 ## Highlights
 - **Google Cloud: Hands-on Skills in Generative AI and Cloud Technologies** - Gen AI Study Jams 24'
-- **Python for Everybody** - Coursera
 - **Top 7 finish in Hackathon** - REDBULL BASEMENT organised by Cherry+ Network
 
 ## Categories
