@@ -10,6 +10,6 @@ Welcome to my repository of certifications and achievements! This repository con
 ## Categories
 1. [Course Certificates](Course-Certificates)
 2. [Hackathons](Hackathons)
-3. [Achievements](Achievements)
+3. [Other Certificates](Other-Certificates)
 
 Feel free to explore!
