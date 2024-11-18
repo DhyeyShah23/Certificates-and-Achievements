@@ -21,6 +21,10 @@ This folder contains certificates from various online courses and hands-on learn
 - Platform: Microsoft Learn
 - Key Skills: Supervised and unsupervised learning, algorithms, neural networks, and model optimization.
 
+### **4. Qwiklabs Developers Club Bootcamp**
+- Platform: Offline
+- Key Skills: Figma, git & github, machine learning, linux.
+
 ## Highlights
 - All certificates demonstrate my ability to learn independently and master new concepts.
 - Certifications cover a wide range of topics, including Python, machine learning, genrative AI, cloud computing, and more.
