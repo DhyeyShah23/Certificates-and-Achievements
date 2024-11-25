@@ -15,18 +15,18 @@ This folder contains certificates from various online courses and hands-on learn
 
 ### **2. Python for Everybody**
 - Platform: Coursera
-- Key Skills: Python programming, data handling, and automation.
+- Key Skills: Basic python programming, data handling.
 
 ### **3. Fundamentals of Machine Learning**
 - Platform: Microsoft Learn
-- Key Skills: Supervised and unsupervised learning, algorithms, neural networks, and model optimization.
+- Key Skills: Supervised and unsupervised learning, algorithms and neural networks.
 
 ### **4. Qwiklabs Developers Club Bootcamp**
 - Platform: Offline
-- Key Skills: Figma, git & github, machine learning, linux.
+- Key Skills: Introduction to Figma, git & github, machine learning and linux.
 
 ## Highlights
 - All certificates demonstrate my ability to learn independently and master new concepts.
-- Certifications cover a wide range of topics, including Python, machine learning, genrative AI, cloud computing, and more.
+- Certifications cover a wide range of topics, including Python, machine learning, genrative AI, basics of cloud computing, and more.
 
 Feel free to explore the certificates in this folder.
